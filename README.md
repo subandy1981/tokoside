@@ -1,0 +1,2 @@
+# tokoside.js
+tokoside
